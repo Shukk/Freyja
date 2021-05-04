@@ -107,3 +107,7 @@ Using DLL injection to extract KeePass 2.x password database information from me
 ## KeeThief
 
 Walks the heap looking for KeePass master key and injects shellcode to decrypt information. (https://github.com/GhostPack/KeeThief)
+
+## Social Engineer Toolkit
+
+Pentest framework designed for social engineering. (https://github.com/trustedsec/social-engineer-toolkit)
