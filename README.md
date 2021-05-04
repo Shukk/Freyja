@@ -1,2 +1,32 @@
-# Freyja
-Hacktools in a nutshell
+# Freyja Project - Hacktools in a nutshell
+
+- ***Nmap*** : Free and open-source network scanner used to discover hosts and services on a computer network by sending packets and analyzing the responses
+- secretsdump
+- ***Zenmap*** : GUI for nmap
+- metasploit
+- burpsuite
+- sharphound
+- mimikatz
+- bloodhound
+- processhacker
+- pingcastle
+- dirsearch
+- Invoke-empire
+- luckystrike
+- cobalt strike
+- responder
+- ***Powerview*** : PowerShell recon tool using PowerShell AD hooks and underlying Win32 API functions to exploit Windows domain functionality (https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon)
+- powersploit
+- crackmapexec
+- nishang
+- lazagne
+- powerupsql
+- keethief
+- psattack
+- get-gpppassword
+- adrecon
+- rubeus
+- uacme
+- powerup
+- ***KeeFarce*** : Using DLL injection to extract KeePass 2.x password database information from memory into a CSV (https://github.com/denandz/KeeFarce)
+- ***KeeThief*** : Walks the heap looking for KeePass master key and injects shellcode to decrypt information (https://github.com/GhostPack/KeeThief)
